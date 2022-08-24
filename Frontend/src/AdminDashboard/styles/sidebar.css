@@ -1,0 +1,11 @@
+/*
+Author : Dhruvkumar Patel
+*/
+.sidebar-bg{
+    background-color: #96DBDC !important;
+}
+
+.sidebar-border{
+    border-right: 1px solid #696969 !important;
+    z-index: 1045 !important;
+}
